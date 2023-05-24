@@ -1,7 +1,7 @@
 
 
 
- <h1 align="center"><img src="https://user-images.githubusercontent.com/81177974/233072897-83f3aa66-9946-4eb9-8b15-1725075f569a.gif" width="50px" height="50px"> Hello<a><img src="https://user-images.githubusercontent.com/81177974/233072897-83f3aa66-9946-4eb9-8b15-1725075f569a.gif" width="50px" height="50px"></a> </h1>
+ <h1 align="center"><a><img src="https://user-images.githubusercontent.com/81177974/233072897-83f3aa66-9946-4eb9-8b15-1725075f569a.gif" width="50px" height="50px"></a> Hello<a><img src="https://user-images.githubusercontent.com/81177974/233072897-83f3aa66-9946-4eb9-8b15-1725075f569a.gif" width="50px" height="50px"></a> </h1>
 
 <p align="center"> 👩‍💻 I'm currently learning frontend development.</p>
 
