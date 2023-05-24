@@ -10,9 +10,13 @@
 <p align="center">
  <a href="https://github.com/O-Julia-O"><img src="https://skillicons.dev/icons?i=js,html,css,bootstrap"></a>
  </p> 
+ 
+  <h1></h1>
+  
 <p align="center">
  <a href="https://github.com/O-Julia-O"><img src="https://api.githubtrends.io/user/svg/O-Julia-O/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic"></a>
  
+
  
 </p>
 <p align="center">
