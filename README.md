@@ -10,4 +10,5 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)
 
-
+https://api.githubtrends.io/user/svg/O-Julia-O/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
