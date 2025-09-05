@@ -25,4 +25,5 @@ Here you'll find my experiments, side projects, and learning journey.
 
 <h1>My Stats:</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-Julia-O&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Julia-O&show_icons=true&theme=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o-Julia-O&layout=donut)
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=o-Julia-O&show_icons=true&theme=white)
